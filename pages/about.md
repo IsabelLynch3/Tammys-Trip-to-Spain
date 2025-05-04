@@ -6,7 +6,7 @@ permalink: /about.html
 credits: true
 
 
-"objectid="donkeyinmijas.jpg"
+"donkeyinmijas.jpg"
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
