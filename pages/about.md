@@ -6,7 +6,7 @@ permalink: /about.html
 credits: true
 
 
-{% include feature/jumbotron.html objects/objectid="donkeyinmijas.jpg" %}
+{% include objects/objectid="donkeyinmijas.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
