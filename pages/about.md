@@ -9,7 +9,8 @@ credits: true
 
 ## About the Collection
 
-This collection is my mother's digitized photos from various locations in Spain in 1978, and although my mother passed in 2011 I wanted to share her photos in honor of her memory. This was a project for the University of Iowa's Inforamtion and Organization course. 
+This collection of digitzed photographs belonged to my mother, Tammy Wells and were taken on her class trip to Spain in 1978. 
+Although my mother passed in 2011 I wanted to share her photos in honor of her memory. This was a project for the University of Iowa's Inforamtion and Organization course. 
 
 Copyright Isabel Lynch, 2025
 
